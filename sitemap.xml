@@ -5,7 +5,16 @@
     
     <url>
     
-      <loc>https://kortschak.github.io/project/gonum/</loc>
+      <loc>http://kortschak.io/project/typo/</loc>
+      <lastmod>2017-06-20T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://kortschak.io/project/gonum/</loc>
       <lastmod>2017-06-10T00:00:00+00:00</lastmod>
     </url>
     
@@ -14,7 +23,7 @@
     
     <url>
     
-      <loc>https://kortschak.github.io/project/arrgh/</loc>
+      <loc>http://kortschak.io/project/arrgh/</loc>
       <lastmod>2017-06-10T00:00:00+00:00</lastmod>
     </url>
     
@@ -23,7 +32,7 @@
     
     <url>
     
-      <loc>https://kortschak.github.io/project/biogo/</loc>
+      <loc>http://kortschak.io/project/biogo/</loc>
       <lastmod>2017-06-10T00:00:00+00:00</lastmod>
     </url>
     
@@ -32,7 +41,7 @@
     
     <url>
     
-      <loc>https://kortschak.github.io/project/ev3go/</loc>
+      <loc>http://kortschak.io/project/ev3go/</loc>
       <lastmod>2017-06-10T00:00:00+00:00</lastmod>
     </url>
     
@@ -41,7 +50,25 @@
     
     <url>
     
-      <loc>https://kortschak.github.io/publication/biogo-ncbi/</loc>
+      <loc>http://kortschak.io/project/utter/</loc>
+      <lastmod>2017-06-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://kortschak.io/project/zalgo/</loc>
+      <lastmod>2017-06-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://kortschak.io/publication/biogo-ncbi/</loc>
       <lastmod>2017-05-26T00:00:00+00:00</lastmod>
     </url>
     
@@ -50,7 +77,7 @@
     
     <url>
     
-      <loc>https://kortschak.github.io/publication/biogo/</loc>
+      <loc>http://kortschak.io/publication/biogo/</loc>
       <lastmod>2017-02-18T00:00:00+00:00</lastmod>
     </url>
     
@@ -59,7 +86,7 @@
     
     <url>
     
-      <loc>https://kortschak.github.io/publication/biogo-hts/</loc>
+      <loc>http://kortschak.io/publication/biogo-hts/</loc>
       <lastmod>2017-02-05T00:00:00+00:00</lastmod>
     </url>
     
@@ -68,7 +95,7 @@
     
     <url>
     
-      <loc>https://kortschak.github.io/tags/academic/</loc>
+      <loc>http://kortschak.io/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -77,7 +104,7 @@
     
     <url>
     
-      <loc>https://kortschak.github.io/publication/</loc>
+      <loc>http://kortschak.io/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -86,7 +113,7 @@
     
     <url>
     
-      <loc>https://kortschak.github.io/publication/lines/</loc>
+      <loc>http://kortschak.io/publication/lines/</loc>
       <lastmod>2016-11-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -95,7 +122,7 @@
     
     <url>
     
-      <loc>https://kortschak.github.io/publication/henmt/</loc>
+      <loc>http://kortschak.io/publication/henmt/</loc>
       <lastmod>2015-10-23T00:00:00+00:00</lastmod>
     </url>
     
@@ -104,7 +131,16 @@
     
     <url>
     
-      <loc>https://kortschak.github.io/publication/coral/</loc>
+      <loc>http://kortschak.io/publication/context/</loc>
+      <lastmod>2013-09-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://kortschak.io/publication/coral/</loc>
       <lastmod>2003-12-16T00:00:00+00:00</lastmod>
     </url>
     
@@ -113,7 +149,34 @@
     
     <url>
     
-      <loc>https://kortschak.github.io/publication_types/2/</loc>
+      <loc>http://kortschak.io/publication/notch/</loc>
+      <lastmod>2001-03-15T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://kortschak.io/publication/arid/</loc>
+      <lastmod>2000-06-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://kortschak.io/publication/deadringer/</loc>
+      <lastmod>1996-03-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://kortschak.io/publication_types/2/</loc>
       <lastmod>2017-05-26T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -123,7 +186,7 @@
     
     <url>
     
-      <loc>https://kortschak.github.io/tags/bioinformatics/</loc>
+      <loc>http://kortschak.io/tags/bioinformatics/</loc>
       <lastmod>2017-06-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -133,7 +196,7 @@
     
     <url>
     
-      <loc>https://kortschak.github.io/categories/</loc>
+      <loc>http://kortschak.io/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -142,7 +205,17 @@
     
     <url>
     
-      <loc>https://kortschak.github.io/tags/fun/</loc>
+      <loc>http://kortschak.io/tags/fun/</loc>
+      <lastmod>2017-06-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://kortschak.io/tags/go/</loc>
       <lastmod>2017-06-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -152,7 +225,7 @@
     
     <url>
     
-      <loc>https://kortschak.github.io/tags/go/</loc>
+      <loc>http://kortschak.io/tags/golang/</loc>
       <lastmod>2017-06-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -162,8 +235,8 @@
     
     <url>
     
-      <loc>https://kortschak.github.io/tags/golang/</loc>
-      <lastmod>2017-06-10T00:00:00+00:00</lastmod>
+      <loc>http://kortschak.io/project/</loc>
+      <lastmod>2017-06-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -172,17 +245,7 @@
     
     <url>
     
-      <loc>https://kortschak.github.io/project/</loc>
-      <lastmod>2017-06-10T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://kortschak.github.io/publication_types/</loc>
+      <loc>http://kortschak.io/publication_types/</loc>
       <lastmod>2017-05-26T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -192,7 +255,7 @@
     
     <url>
     
-      <loc>https://kortschak.github.io/tags/robotics/</loc>
+      <loc>http://kortschak.io/tags/robotics/</loc>
       <lastmod>2017-06-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -202,7 +265,7 @@
     
     <url>
     
-      <loc>https://kortschak.github.io/tags/scientific-code/</loc>
+      <loc>http://kortschak.io/tags/scientific-code/</loc>
       <lastmod>2017-06-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -212,7 +275,7 @@
     
     <url>
     
-      <loc>https://kortschak.github.io/tags/</loc>
+      <loc>http://kortschak.io/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -222,7 +285,17 @@
     
     <url>
     
-      <loc>https://kortschak.github.io/</loc>
+      <loc>http://kortschak.io/tags/tools/</loc>
+      <lastmod>2017-06-10T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://kortschak.io/</loc>
       <lastmod>2017-06-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>

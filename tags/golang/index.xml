@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Golang on kortschak.io</title>
-    <link>https://kortschak.github.io/tags/golang/</link>
+    <link>http://kortschak.io/tags/golang/</link>
     <description>Recent content in Golang on kortschak.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,37 +12,37 @@
     
     <item>
       <title>Gonum</title>
-      <link>https://kortschak.github.io/project/gonum/</link>
+      <link>http://kortschak.io/project/gonum/</link>
       <pubDate>Sat, 10 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kortschak.github.io/project/gonum/</guid>
+      <guid>http://kortschak.io/project/gonum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>arrgh</title>
-      <link>https://kortschak.github.io/project/arrgh/</link>
+      <link>http://kortschak.io/project/arrgh/</link>
       <pubDate>Sat, 10 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kortschak.github.io/project/arrgh/</guid>
+      <guid>http://kortschak.io/project/arrgh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bíogo</title>
-      <link>https://kortschak.github.io/project/biogo/</link>
+      <link>http://kortschak.io/project/biogo/</link>
       <pubDate>Sat, 10 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kortschak.github.io/project/biogo/</guid>
+      <guid>http://kortschak.io/project/biogo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ev3go</title>
-      <link>https://kortschak.github.io/project/ev3go/</link>
+      <link>http://kortschak.io/project/ev3go/</link>
       <pubDate>Sat, 10 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kortschak.github.io/project/ev3go/</guid>
+      <guid>http://kortschak.io/project/ev3go/</guid>
       <description></description>
     </item>
     

@@ -59,7 +59,7 @@
     </item>
     
     <item>
-      <title>LINEs between Species: Evolutionary Dynamics of LINE-1 Retrotransposons across the Eukaryotic Tree of Life</title>
+      <title>LINEs between species: Evolutionary dynamics of LINE-1 retrotransposons across the eukaryotic tree of life</title>
       <link>http://kortschak.io/publication/lines/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       
@@ -68,11 +68,29 @@
     </item>
     
     <item>
-      <title>HENMT1 and piRNA Stability Are Required for Adult Male Germ Cell Transposon Repression and to Define the Spermatogenic Program in the Mouse</title>
+      <title>Identification of candidate anti-cancer molecular mechanisms of Compound Kushen Injection using functional genomics</title>
+      <link>http://kortschak.io/publication/cki/</link>
+      <pubDate>Tue, 04 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://kortschak.io/publication/cki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HENMT1 and piRNA stability are required for adult male germ cell transposon repression and to define the spermatogenic program in the mouse</title>
       <link>http://kortschak.io/publication/henmt/</link>
       <pubDate>Fri, 23 Oct 2015 00:00:00 +0000</pubDate>
       
       <guid>http://kortschak.io/publication/henmt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jumping the fine LINE between species: Horizontal transfer of transposable elements in animals catalyses genome evolution</title>
+      <link>http://kortschak.io/publication/horizontal-review/</link>
+      <pubDate>Tue, 03 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://kortschak.io/publication/horizontal-review/</guid>
       <description></description>
     </item>
     
@@ -86,7 +104,43 @@
     </item>
     
     <item>
-      <title>EST Analysis of the Cnidarian Acropora millepora Reveals Extensive Gene Loss and Rapid Sequence Divergence in the Model Invertebrates</title>
+      <title>A comparative analysis of algorithms for somatic SNV detection in cancer</title>
+      <link>http://kortschak.io/publication/snv-detection/</link>
+      <pubDate>Tue, 09 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://kortschak.io/publication/snv-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Widespread horizontal transfer of retrotransposons</title>
+      <link>http://kortschak.io/publication/horizontal-bovb/</link>
+      <pubDate>Wed, 05 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://kortschak.io/publication/horizontal-bovb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification of mediator complex 26 (Crsp7) gametologs on platypus X1 and Y5 sex chromosomes: a candidate testis-determining gene in monotremes?</title>
+      <link>http://kortschak.io/publication/platypus-crsp/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://kortschak.io/publication/platypus-crsp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of SINE and LINE repeat content of Y chromosomes in the platypus, Ornithorhynchus anatinus</title>
+      <link>http://kortschak.io/publication/platypus-y/</link>
+      <pubDate>Fri, 30 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://kortschak.io/publication/platypus-y/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EST analysis of the Cnidarian Acropora millepora reveals extensive gene loss and rapid sequence divergence in the model invertebrates</title>
       <link>http://kortschak.io/publication/coral/</link>
       <pubDate>Tue, 16 Dec 2003 00:00:00 +0000</pubDate>
       
@@ -110,15 +164,6 @@
       <pubDate>Tue, 13 Jun 2000 00:00:00 +0000</pubDate>
       
       <guid>http://kortschak.io/publication/arid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Characterization of the dead ringer gene identifies a novel, highly conserved family of sequence-specific DNA-binding proteins</title>
-      <link>http://kortschak.io/publication/deadringer/</link>
-      <pubDate>Fri, 01 Mar 1996 00:00:00 +0000</pubDate>
-      
-      <guid>http://kortschak.io/publication/deadringer/</guid>
       <description></description>
     </item>
     

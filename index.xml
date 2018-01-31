@@ -11,6 +11,20 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>arrgh: a Go interface to the OpenCPU R server system</title>
+      <link>http://kortschak.io/publication/arrgh/</link>
+      <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://kortschak.io/publication/arrgh/</guid>
+      <description>&lt;p&gt;Ooms, Jeroen. 2013. “OpenCPU Api Documentation.” &lt;a href=&#34;https://www.opencpu.org/api.html&#34; target=&#34;_blank&#34;&gt;https://www.opencpu.org/api.html&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;———. 2014. “The Opencpu System: Towards a Universal Interface for Scientific Computing Through Separation of Concerns.” arXiv:1406.4806 [stat.CO]. &lt;a href=&#34;http://arxiv.org/abs/1406.4806&#34; target=&#34;_blank&#34;&gt;http://arxiv.org/abs/1406.4806&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;R Core Team. 2015. R: A Language and Environment for Statistical Computing. Vienna, Austria: R Foundation for Statistical Computing. &lt;a href=&#34;https://www.R-project.org/&#34; target=&#34;_blank&#34;&gt;https://www.R-project.org/&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>typo</title>
       <link>http://kortschak.io/project/typo/</link>
       <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
@@ -154,15 +168,6 @@
       <pubDate>Tue, 03 Sep 2013 00:00:00 +0000</pubDate>
       
       <guid>http://kortschak.io/publication/horizontal-review/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Contextual models and the non-Newtonian paradigm</title>
-      <link>http://kortschak.io/publication/context/</link>
-      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://kortschak.io/publication/context/</guid>
       <description></description>
     </item>
     

@@ -11,6 +11,20 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>arrgh: a Go interface to the OpenCPU R server system</title>
+      <link>http://kortschak.io/publication/arrgh/</link>
+      <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://kortschak.io/publication/arrgh/</guid>
+      <description>&lt;p&gt;Ooms, Jeroen. 2013. “OpenCPU Api Documentation.” &lt;a href=&#34;https://www.opencpu.org/api.html&#34; target=&#34;_blank&#34;&gt;https://www.opencpu.org/api.html&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;———. 2014. “The Opencpu System: Towards a Universal Interface for Scientific Computing Through Separation of Concerns.” arXiv:1406.4806 [stat.CO]. &lt;a href=&#34;http://arxiv.org/abs/1406.4806&#34; target=&#34;_blank&#34;&gt;http://arxiv.org/abs/1406.4806&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;R Core Team. 2015. R: A Language and Environment for Statistical Computing. Vienna, Austria: R Foundation for Statistical Computing. &lt;a href=&#34;https://www.R-project.org/&#34; target=&#34;_blank&#34;&gt;https://www.R-project.org/&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>bíogo/ncbi: interfaces to NCBI services for the Go language</title>
       <link>http://kortschak.io/publication/biogo-ncbi/</link>
       <pubDate>Fri, 26 May 2017 00:00:00 +0000</pubDate>
@@ -155,15 +169,6 @@
       <pubDate>Thu, 15 Mar 2001 00:00:00 +0000</pubDate>
       
       <guid>http://kortschak.io/publication/notch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ARID proteins come in from the desert</title>
-      <link>http://kortschak.io/publication/arid/</link>
-      <pubDate>Tue, 13 Jun 2000 00:00:00 +0000</pubDate>
-      
-      <guid>http://kortschak.io/publication/arid/</guid>
       <description></description>
     </item>
     

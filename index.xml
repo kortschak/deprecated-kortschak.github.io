@@ -11,6 +11,51 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Horizontal transfer of BovB and L1 retrotransposons in eukaryotes</title>
+      <link>http://kortschak.io/publication/horizontal-bovb-l1/</link>
+      <pubDate>Mon, 09 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://kortschak.io/publication/horizontal-bovb-l1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transposable elements and gene expression during the evolution of amniotes</title>
+      <link>http://kortschak.io/publication/transpoable-gene-express/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://kortschak.io/publication/transpoable-gene-express/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Divergent genome evolution caused by regional variation in DNA gain and loss between human and mouse</title>
+      <link>http://kortschak.io/publication/divergent-genomes/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://kortschak.io/publication/divergent-genomes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Superior ab initio identification, annotation and characterisation of TEs and segmental duplications from genome assemblies</title>
+      <link>http://kortschak.io/publication/carp/</link>
+      <pubDate>Wed, 14 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://kortschak.io/publication/carp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comprehensive genomic history of extinct and living elephants</title>
+      <link>http://kortschak.io/publication/elephants/</link>
+      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://kortschak.io/publication/elephants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>arrgh: a Go interface to the OpenCPU R server system</title>
       <link>http://kortschak.io/publication/arrgh/</link>
       <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
@@ -22,6 +67,15 @@
 
 &lt;p&gt;R Core Team. 2015. R: A Language and Environment for Statistical Computing. Vienna, Austria: R Foundation for Statistical Computing. &lt;a href=&#34;https://www.R-project.org/&#34; target=&#34;_blank&#34;&gt;https://www.R-project.org/&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Similar evolutionary trajectories for retrotransposon accumulation in mammals</title>
+      <link>http://kortschak.io/publication/similar-genomes/</link>
+      <pubDate>Mon, 04 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://kortschak.io/publication/similar-genomes/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -109,66 +163,6 @@
 
 &lt;p&gt;Stajich J.E., et al. 2002. “The Bioperl Toolkit: Perl Modules for the Life Sciences.” Genome Research 12 (10): 1611–8. doi:&lt;a href=&#34;https://doi.org/10.1101/gr.361602&#34; target=&#34;_blank&#34;&gt;10.1101/gr.361602&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>bíogo: a simple high-performance bioinformatics toolkit for the Go language</title>
-      <link>http://kortschak.io/publication/biogo/</link>
-      <pubDate>Sat, 18 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://kortschak.io/publication/biogo/</guid>
-      <description>&lt;p&gt;Kortschak, R. D., and D. L. Adelson. 2014. &amp;ldquo;bíogo: A Simple High-Performance Bioinformatics Toolkit for the Go Language.&amp;rdquo; BioRxiv. doi:&lt;a href=&#34;https://doi.org/10.1101/005033&#34; target=&#34;_blank&#34;&gt;10.1101/005033&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>bíogo/hts: high throughput sequence handling for the Go language</title>
-      <link>http://kortschak.io/publication/biogo-hts/</link>
-      <pubDate>Sun, 05 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://kortschak.io/publication/biogo-hts/</guid>
-      <description>&lt;p&gt;Tarasov A., Vilella A., Cuppen E., Nijman I. J., and Prins P. 2015. &amp;ldquo;Sambamba: Fast Processing of Ngs Alignment Formats.&amp;rdquo; Bioinformatics 31 (12): 2032–4. doi:&lt;a href=&#34;https://doi.org/10.1093/bioinformatics/btv098&#34; target=&#34;_blank&#34;&gt;10.1093/bioinformatics/btv098&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The SAM/BAM Format Specification Working Group. 2016. &amp;ldquo;Sequence Alignment/Map Format Specification.&amp;rdquo; &lt;a href=&#34;https://samtools.github.io/hts-specs/SAMv1.pdf&#34; target=&#34;_blank&#34;&gt;https://samtools.github.io/hts-specs/SAMv1.pdf&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Li H., Handsaker B., Wysoker A., Fennell T., Ruan J., Homer N., Marth G., Abecasis G., Durbin R., and 1000 Genome Project Data Processing Subgroup. 2012. &amp;ldquo;The Sequence Alignment/Map Format and Samtools.&amp;rdquo; Bioinformatics 25 (16): 2078–9. doi:&lt;a href=&#34;https://doi.org/10.1093/bioinformatics/btp352&#34; target=&#34;_blank&#34;&gt;10.1093/bioinformatics/btp352&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>LINEs between species: Evolutionary dynamics of LINE-1 retrotransposons across the eukaryotic tree of life</title>
-      <link>http://kortschak.io/publication/lines/</link>
-      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://kortschak.io/publication/lines/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Identification of candidate anti-cancer molecular mechanisms of Compound Kushen Injection using functional genomics</title>
-      <link>http://kortschak.io/publication/cki/</link>
-      <pubDate>Tue, 04 Oct 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://kortschak.io/publication/cki/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HENMT1 and piRNA stability are required for adult male germ cell transposon repression and to define the spermatogenic program in the mouse</title>
-      <link>http://kortschak.io/publication/henmt/</link>
-      <pubDate>Fri, 23 Oct 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://kortschak.io/publication/henmt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jumping the fine LINE between species: Horizontal transfer of transposable elements in animals catalyses genome evolution</title>
-      <link>http://kortschak.io/publication/horizontal-review/</link>
-      <pubDate>Tue, 03 Sep 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://kortschak.io/publication/horizontal-review/</guid>
-      <description></description>
     </item>
     
   </channel>

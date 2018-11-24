@@ -7,8 +7,53 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Dan Kortschak</copyright>
-    <lastBuildDate>Tue, 16 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Jul 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication_types/2/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Horizontal transfer of BovB and L1 retrotransposons in eukaryotes</title>
+      <link>http://kortschak.io/publication/horizontal-bovb-l1/</link>
+      <pubDate>Mon, 09 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://kortschak.io/publication/horizontal-bovb-l1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transposable elements and gene expression during the evolution of amniotes</title>
+      <link>http://kortschak.io/publication/transpoable-gene-express/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://kortschak.io/publication/transpoable-gene-express/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Divergent genome evolution caused by regional variation in DNA gain and loss between human and mouse</title>
+      <link>http://kortschak.io/publication/divergent-genomes/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://kortschak.io/publication/divergent-genomes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Superior ab initio identification, annotation and characterisation of TEs and segmental duplications from genome assemblies</title>
+      <link>http://kortschak.io/publication/carp/</link>
+      <pubDate>Wed, 14 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://kortschak.io/publication/carp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comprehensive genomic history of extinct and living elephants</title>
+      <link>http://kortschak.io/publication/elephants/</link>
+      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://kortschak.io/publication/elephants/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>arrgh: a Go interface to the OpenCPU R server system</title>
@@ -22,6 +67,15 @@
 
 &lt;p&gt;R Core Team. 2015. R: A Language and Environment for Statistical Computing. Vienna, Austria: R Foundation for Statistical Computing. &lt;a href=&#34;https://www.R-project.org/&#34; target=&#34;_blank&#34;&gt;https://www.R-project.org/&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Similar evolutionary trajectories for retrotransposon accumulation in mammals</title>
+      <link>http://kortschak.io/publication/similar-genomes/</link>
+      <pubDate>Mon, 04 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://kortschak.io/publication/similar-genomes/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -46,6 +100,15 @@
 
 &lt;p&gt;Stajich J.E., et al. 2002. “The Bioperl Toolkit: Perl Modules for the Life Sciences.” Genome Research 12 (10): 1611–8. doi:&lt;a href=&#34;https://doi.org/10.1101/gr.361602&#34; target=&#34;_blank&#34;&gt;10.1101/gr.361602&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Understanding the effectiveness of natural compound mixtures in cancer through their molecular mode of action</title>
+      <link>http://kortschak.io/publication/compound-mixtures/</link>
+      <pubDate>Fri, 17 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://kortschak.io/publication/compound-mixtures/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -105,70 +168,6 @@
       <pubDate>Tue, 03 Sep 2013 00:00:00 +0000</pubDate>
       
       <guid>http://kortschak.io/publication/horizontal-review/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Contextual models and the non-Newtonian paradigm</title>
-      <link>http://kortschak.io/publication/context/</link>
-      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://kortschak.io/publication/context/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A comparative analysis of algorithms for somatic SNV detection in cancer</title>
-      <link>http://kortschak.io/publication/snv-detection/</link>
-      <pubDate>Tue, 09 Jul 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://kortschak.io/publication/snv-detection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Widespread horizontal transfer of retrotransposons</title>
-      <link>http://kortschak.io/publication/horizontal-bovb/</link>
-      <pubDate>Wed, 05 Dec 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://kortschak.io/publication/horizontal-bovb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Identification of mediator complex 26 (Crsp7) gametologs on platypus X1 and Y5 sex chromosomes: a candidate testis-determining gene in monotremes?</title>
-      <link>http://kortschak.io/publication/platypus-crsp/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://kortschak.io/publication/platypus-crsp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Analysis of SINE and LINE repeat content of Y chromosomes in the platypus, Ornithorhynchus anatinus</title>
-      <link>http://kortschak.io/publication/platypus-y/</link>
-      <pubDate>Fri, 30 Oct 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://kortschak.io/publication/platypus-y/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>EST analysis of the Cnidarian Acropora millepora reveals extensive gene loss and rapid sequence divergence in the model invertebrates</title>
-      <link>http://kortschak.io/publication/coral/</link>
-      <pubDate>Tue, 16 Dec 2003 00:00:00 +0000</pubDate>
-      
-      <guid>http://kortschak.io/publication/coral/</guid>
-      <description>&lt;p&gt;A brief commentary on the paper is available in &lt;em&gt;Nature&lt;/em&gt; &lt;a href=&#34;http://www.nature.com/news/1998/031215/full/news031215-2.html&#34; target=&#34;_blank&#34;&gt;News and Views&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Evolutionary analysis of vertebrate Notch genes</title>
-      <link>http://kortschak.io/publication/notch/</link>
-      <pubDate>Thu, 15 Mar 2001 00:00:00 +0000</pubDate>
-      
-      <guid>http://kortschak.io/publication/notch/</guid>
       <description></description>
     </item>
     

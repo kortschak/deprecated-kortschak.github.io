@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>AusOcean</title>
+      <link>http://kortschak.io/project/ausocean/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://kortschak.io/project/ausocean/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Horizontal transfer of BovB and L1 retrotransposons in eukaryotes</title>
       <link>http://kortschak.io/publication/horizontal-bovb-l1/</link>
       <pubDate>Mon, 09 Jul 2018 00:00:00 +0000</pubDate>
@@ -139,30 +148,6 @@
       
       <guid>http://kortschak.io/project/zalgo/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>bíogo/ncbi: interfaces to NCBI services for the Go language</title>
-      <link>http://kortschak.io/publication/biogo-ncbi/</link>
-      <pubDate>Fri, 26 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://kortschak.io/publication/biogo-ncbi/</guid>
-      <description>&lt;p&gt;Biotechnology Information (US), National Center for. 2005. “Entrez Programming Utilities Help.” &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/books/NBK3836/&#34; target=&#34;_blank&#34;&gt;https://www.ncbi.nlm.nih.gov/books/NBK3836/&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;———. 2010. “Entrez Programming Utilities Help.” &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/books/NBK25501/&#34; target=&#34;_blank&#34;&gt;https://www.ncbi.nlm.nih.gov/books/NBK25501/&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;———. 2017a. “Basic Local Alignment Search Tool.” Accessed March 3. &lt;a href=&#34;https://blast.ncbi.nlm.nih.gov/Blast.cgi&#34; target=&#34;_blank&#34;&gt;https://blast.ncbi.nlm.nih.gov/Blast.cgi&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;———. 2017b. “Common Url Api.” Accessed March 3. &lt;a href=&#34;http://www.ncbi.nlm.nih.gov/BLAST/Doc/urlapi.html&#34; target=&#34;_blank&#34;&gt;http://www.ncbi.nlm.nih.gov/BLAST/Doc/urlapi.html&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Cock P.J.A., et al. 2009. “Biopython: Freely Available Python Tools for Computational Molecular Biology and Bioinformatics.” Bioinformatics 25 (11): 1422–3. doi:&lt;a href=&#34;https://doi.org/10.1093/bioinformatics/btp163&#34; target=&#34;_blank&#34;&gt;10.1093/bioinformatics/btp163&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Fields C. 2017a. “Bio-Eutilities.” Accessed March 3. &lt;a href=&#34;https://github.com/bioperl/bioperl-run&#34; target=&#34;_blank&#34;&gt;https://github.com/bioperl/bioperl-run&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;———. 2017b. “Bio-Eutilities.” Accessed March 3. &lt;a href=&#34;https://github.com/bioperl/Bio-EUtilities&#34; target=&#34;_blank&#34;&gt;https://github.com/bioperl/Bio-EUtilities&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Stajich J.E., et al. 2002. “The Bioperl Toolkit: Perl Modules for the Life Sciences.” Genome Research 12 (10): 1611–8. doi:&lt;a href=&#34;https://doi.org/10.1101/gr.361602&#34; target=&#34;_blank&#34;&gt;10.1101/gr.361602&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

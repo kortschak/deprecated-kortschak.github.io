@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ethical on kortschak.io</title>
+    <link>http://kortschak.io/tags/ethical/</link>
+    <description>Recent content in Ethical on kortschak.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Dan Kortschak</copyright>
+    <lastBuildDate>Thu, 20 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/ethical/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AusOcean</title>
+      <link>http://kortschak.io/project/ausocean/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://kortschak.io/project/ausocean/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
